@@ -1,1 +1,2 @@
 # Line-Following-Car
+The car uses and IR sensor to dectect the reflected radiations from the the ground. If the line is made with black colour, the sensors don't get the reflected rays back and hence the car follows that path. If left sensor comes on black line then car turn left side. If right sensor sense black line then car turn right side until both sensor comes at white surface. When white surface comes car starts moving on forward again. If both sensors comes on black line, car stops.
